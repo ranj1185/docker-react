@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello from reactjs.
+          Merged from feature branch into master.
         </p>
         <a
           className="App-link"
