@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Merged from feature branch into master.
+          Sainsbury Demo.
         </p>
         <a
           className="App-link"
