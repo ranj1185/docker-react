@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sainsbury Demo.
+          A simple reactjs application.
         </p>
         <a
           className="App-link"
